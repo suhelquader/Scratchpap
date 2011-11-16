@@ -2,6 +2,6 @@
 
 a <- rnorm(100)
 hist(a)
-plot(a, a)
+plot(a, rnorm(100))
 
 ## end
